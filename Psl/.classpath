@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="lib/animal-sniffer-annotations-1.17.jar"/>
+	<classpathentry kind="lib" path="lib/checker-qual-2.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/error_prone_annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="lib/guava-gwt-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="lib/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
